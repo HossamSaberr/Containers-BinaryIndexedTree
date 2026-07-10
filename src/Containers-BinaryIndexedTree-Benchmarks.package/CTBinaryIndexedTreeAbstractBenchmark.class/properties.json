@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Containers-BinaryIndexedTree-Benchmarks",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"benchmarker",
+		"result"
+	],
+	"name" : "CTBinaryIndexedTreeAbstractBenchmark",
+	"type" : "normal"
+}
