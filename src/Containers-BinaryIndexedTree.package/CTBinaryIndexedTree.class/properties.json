@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Containers-BinaryIndexedTree",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"tree",
+		"size"
+	],
+	"name" : "CTBinaryIndexedTree",
+	"type" : "normal"
+}
