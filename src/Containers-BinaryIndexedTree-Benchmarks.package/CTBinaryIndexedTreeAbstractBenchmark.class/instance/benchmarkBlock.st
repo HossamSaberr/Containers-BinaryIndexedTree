@@ -1,3 +1,0 @@
-benchmarking
-benchmarkBlock
-	^ self subclassResponsibility
